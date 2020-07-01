@@ -1,0 +1,8 @@
+/*change canvas backgrond (green)*/
+canvas {
+  background-color: #00ff00;
+}
+
+body {
+  overflow: hidden;
+}
